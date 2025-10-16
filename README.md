@@ -77,12 +77,5 @@ This website showcases my electrical work, featuring expert installations, repai
 
 ---
 
-### 📞 Contact Us
-📧 **femtexbestengineering@gmail.com**  
-📱 **08162994552**, **08162918085**
-
-Follow us on social media:  
-
----
 
 © 2025 **Femtex Engineering**. All rights reserved.
