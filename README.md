@@ -6,7 +6,7 @@ This website showcases my electrical work, featuring expert installations, repai
 *Lighting the Future with Innovation*
 
 ---
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -18,7 +18,7 @@ This website showcases my electrical work, featuring expert installations, repai
   <!-- Navigation Bar -->
   <header>
     <nav class="navbar">
-      <div class="logo">⚡ Femtex Engineering</div>
+      <div class="logo"> Femtex Engineering</div>
       <ul class="nav-links">
         <li><a href="#home">Home</a></li>
         <li><a href="#about">About</a></li>
@@ -77,12 +77,5 @@ This website showcases my electrical work, featuring expert installations, repai
 
 ---
 
-### 📞 Contact Us
-📧 **femtexbestengineering@gmail.com**  
-📱 **08162994552**, **08162918085**
-
-Follow us on social media:  
-
----
 
 © 2025 **Femtex Engineering**. All rights reserved.
